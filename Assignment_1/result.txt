@@ -1,0 +1,212 @@
+************************************
+**Answer is in structure:
+**Query_<query_number>
+**Querty_<query_term>
+**Google:
+**<query_order_1> <score>
+**<query_order_2> <score>
+**<query_order_3> <score>
+**<query_order_4> <score>
+**<query_order_5> <score>
+**Bing:
+**<query_order_1> <score>
+**<query_order_2> <score>
+**<query_order_3> <score>
+**<query_order_4> <score>
+**<query_order_5> <score>
+************************************
+
+Query_1
+Query_Term: Hossein Ameri Keck
+Google:
+http://www.keckmedicine.org/doctor/hossein-ameri/ 0.5
+http://keck.usc.edu/faculty/hossein-ameri/ 1.0
+https://www.healthgrades.com/physician/dr-hossein-ameri-y7mjn 0.25
+http://health.usnews.com/doctors/hossein-ameri-709956 0.25
+http://doctor.webmd.com/doctor/hossein-ameri-md-26321779-51c8-48c4-b20d-957ec46ae40a-overview 0.25
+Bing:
+http://www.keckmedicine.org/doctor/hossein-ameri/ 0.5
+http://keck.usc.edu/faculty/hossein-ameri/ 1.0
+http://eye.keckmedicine.org/doctors/dr-hossein-ameri/ 0.5
+http://health.usnews.com/doctors/hossein-ameri-709956 0.25
+https://www.healthgrades.com/physician/dr-hossein-ameri-y7mjn 0.25
+
+Query_2
+Query_Term: Glenn T. Ault Keck
+Google:
+http://www.surgery.usc.edu/colorectal/bio-ault_glenn.html 1.0
+http://keck.usc.edu/faculty/glenn-t-ault/ 1.0
+http://health.usnews.com/doctors/glenn-ault-478437 0.25
+https://www.linkedin.com/in/glenn-ault-b707a810 0.5
+https://www.fascrs.org/residency-program/university-southern-california-keck-school-medicine-usc 0.0
+Bing:
+http://www.surgery.usc.edu/colorectal/bio-ault_glenn.html 1.0
+http://keck.usc.edu/faculty/glenn-t-ault/ 1.0
+http://www.keckmedicine.org/doctor/glenn-t-ault/ 0.5
+http://keck.usc.edu/faculty/glenn-t-ault-2/ 0.0
+https://www.fascrs.org/residency-program/university-southern-california-keck-school-medicine-usc 0.0
+
+Query_3
+Query_Term: Edward Lawrence Avol Keck
+Google:
+http://keck.usc.edu/faculty/edward-lawrence-avol/ 1.0
+https://pressroom.usc.edu/ed-avol/ 0.5
+http://www.centerforhealthjournalism.org/resources/sources/ed-avol 0.5
+http://quanki.com/person.php?person=06ZE5JBQRXD 0.25
+http://www.clubedrunning.com/p/coach-ed.html 0.25
+Bing:
+http://keck.usc.edu/faculty/edward-lawrence-avol-3/ 0.0
+https://www.intelius.com/people/Edward-Avol/Manhattan+Beach-CA/06ze5jbqrxd 0.25
+http://keck.usc.edu/preventive-medicine/faculty/ 0.25
+https://pressroom.usc.edu/ed-avol/ 0.5
+https://en.wikipedia.org/wiki/Edward_Lawrence 0.0
+
+Query_4
+Query_Term: Anesthesiology Keck
+Google:
+http://keck.usc.edu/anesthesiology/ 1.0
+http://keck.usc.edu/anesthesiology/training-education/nurse-anesthesia-program/ 0.5
+http://keck.usc.edu/anesthesiology/training-education/residency-program/ 0.5
+http://keck.usc.edu/anesthesiology/faculty/ 0.5
+http://www.keckmedicine.org/anesthesiology/ 0.0
+Bing:
+http://keck.usc.edu/anesthesiology/ 1.0
+https://keck.usc.edu/events/categories/anesthesiology/ 0.5
+http://www.keckmedicine.org/anesthesiology/ 0.0
+https://news.usc.edu/6220/Keck-School-names-new-chair-in-anesthesiology/ 0.0
+http://www.usc.edu/schools/medicine//departments/anesthesiology/education/crna/program.html 0.0
+
+Query_5
+Query_Term: Dermatology Keck
+Google:
+http://dermatology.keckmedicine.org/ 0.0
+http://dermatology.keckmedicine.org/our-physicians/ 0.0
+https://dermatology.keckmedicine.org/request-an-appointment/ 0.0
+http://keck.usc.edu/dermatology/ 1.0
+http://keck.usc.edu/dermatology/faculty/ 0.5
+Bing:
+http://keck.usc.edu/dermatology/ 1.0
+http://dermatology.keckmedicine.org/ 0.0
+http://news.usc.edu/44702/keck-school-appoints-new-chair-of-dermatology-department/ 0.0
+http://keck.usc.edu/dermatology/about-dermatology 0.5
+http://dermatology.keckmedicine.org/our-physicians/ 0.0
+
+Query_6
+Query_Term: Emergency Medicine Keck
+Google:
+http://keck.usc.edu/emergency-medicine/ 1.0
+http://keck.usc.edu/emergency-medicine/training-education/residency-program/ 0.5
+http://keck.usc.edu/emergency-medicine/about-emergency-medicine/ 0.5
+http://keck.usc.edu/emergency-medicine/faculty/ 0.5
+http://keck.usc.edu/emergency-medicine/training-education/ 0.5
+Bing:
+http://keck.usc.edu/emergency-medicine/ 1.0
+http://doctor.webmd.com/doctor/brian-keck-de80202a-927c-44a3-9279-a079dbac5cd8-overview 0.0
+http://www.keckmedicine.org/keck-school-of-medicine-of-usc-department-of-emergency-medicine-receives-no-3-spot-in-new-national-ranking-of-residency-programs/ 0.0
+http://hscnews.usc.edu/emergency-medicine-leader-is-recruited-to-keck-school/ 0.0
+https://www.healthtap.com/experts/11046389-dr-wendy-keck 0.0
+
+Query_7
+Query_Term: Keck USC map
+Google:
+http://keck.usc.edu/about-us/visiting-keck-school-of-medicine/maps-directions/ 1.0
+http://web-app.usc.edu/maps/hscmap.pdf 1.0
+https://www.usc.edu/assets/maps/hsc_map.pdf 1.0
+http://www.usc.edu/schools/medicine//school/campus/maps/index.html 1.0
+https://www.google.com/maps/d/viewer?mid=13I__iq2wRytLDqbmmWUgU9LN0kg&hl=en_US&ll=34.08025839497804%2C-118.32478349999997&z=13 0.5
+Bing:
+http://keck.usc.edu/about-us/visiting-keck-school-of-medicine/maps-directions/ 1.0
+http://www.keckmedicine.org/locations/ 0.5
+https://www.mapquest.com/us/california/business-los-angeles/keck-hospital-of-usc-261797076 0.5
+http://keck.usc.edu/site-map/ 0.0
+https://www.mapquest.com/us/california/business-pasadena/keck-medical-center-of-usc-350459641 0.0
+
+Query_8
+Query_Term: W.M. Keck Foundation
+Google:
+http://www.wmkeck.org/ 1.0
+https://en.wikipedia.org/wiki/W._M._Keck_Foundation 1.0
+http://www.insidephilanthropy.com/grants-for-scientific-research/wm-keck-foundation-grants-for-science-research.html 1.0
+https://fconline.foundationcenter.org/grantmaker-profile?collection=grantmakers&key=KECK001 1.0
+https://med.stanford.edu/rmg/funding/keck_concept.html 0.0
+Bing:
+http://wmkeck.org/ 1.0
+https://en.wikipedia.org/wiki/W._M._Keck_Foundation 1.0
+http://www.bloomberg.com/research/stocks/private/board.asp?privcapId=4890997 0.25
+https://med.emory.edu/research/funding/opportunities_limited/keck_foundation_fall.html 0.0
+https://medicine.yale.edu/keck/proteomics/ 0.0
+
+Query_9
+Query_Term: USC Keck Alumni
+Google:
+http://keck.usc.edu/salerni/ 1.0
+http://keck.usc.edu/salerni/talk-alumni-link-for-keck/ 1.0
+http://keck.usc.edu/talk-newsletter/ 1.0
+https://en.wikipedia.org/wiki/Category:Keck_School_of_Medicine_of_USC_alumni 0.25
+http://primarycare.usc.edu/alumni/ 0.25
+Bing:
+http://keck.usc.edu/salerni/ 1.0
+http://keckmed.usc.edu/msgm/Global-Medicine-Alumni.html 0.25
+https://alumni.usc.edu/campus/ 0.25
+https://giveto.usc.edu/?fundid=9251204220&radioamount0=10000&radioamount1=5000&radioamount2=1000&radioamount3=500&radioamount4=250&radioamount5=100&appealcode=WK15WG001&buttongen=1&hidetop=1 0.00
+https://phdhbr.usc.edu/alumni.php 0.25
+
+Query_10
+Query_Term: USC Preventive Medicine Undergraduate degree requirements
+Google:
+http://catalogue.usc.edu/content.php?catoid=2&navoid=457 0.5
+https://hpdp.usc.edu/education.php?sub=PD 0.0
+https://hpdp.usc.edu/education.php?sub=BSGH 1.0
+http://keck.usc.edu/education/undergraduate-programs/ 0.0
+https://hpdp.usc.edu/education.php?sub=HPDP 1.0
+Bing:
+http://catalogue.usc.edu/content.php?catoid=2&navoid=457 0.5
+https://pm.usc.edu/ 0.0
+https://undergrad.usc.edu/programs/minor/list/special/ 0.0
+http://catalogue2014.usc.edu/schools/medicine/preventive/undergraduate/ 1.0
+https://mph.usc.edu/progressive_degree.php 0.0
+
+Query_11
+Query_Term: USC Preventive Medicine Masters degree requirements
+Google:
+http://keck.usc.edu/preventive-medicine/training-education/masters-programs/ 0.5
+http://catalogue.usc.edu/content.php?catoid=2&navoid=457 0.5
+https://pm.usc.edu/ 0.0
+https://pm.usc.edu/education.php 0.5
+http://catalogue.usc.edu/content.php?catoid=2&navoid=304 0.5
+Bing:
+http://catalogue.usc.edu/content.php?catoid=2&navoid=457 0.5
+https://sowkweb.usc.edu/master-of-social-work/msw-degree/dual-degrees/public-health 0.0
+http://catalogue2014.usc.edu/schools/medicine/preventive/undergraduate/ 0.0
+https://mph.usc.edu/dual_degrees.php 0.5
+http://scrm.usc.edu/degree-requirements/ 1.0
+
+Query_12
+Query_Term: USC Preventive Medicine Ph.D. degree requirements
+Google:
+https://phdhbr.usc.edu/ 0.5
+https://phdhbr.usc.edu/admission.php 0.5
+http://keck.usc.edu/education/phd-programs/ 0.5
+http://catalogue.usc.edu/content.php?catoid=2&navoid=457 0.5
+http://catalogue.usc.edu/preview_program.php?catoid=6&poid=5739&returnto=1481 1.0
+Bing:
+http://catalogue2014.usc.edu/schools/medicine/preventive/undergraduate/ 0.0
+https://phdhbr.usc.edu/admission.php 0.5
+http://catalogue2014.usc.edu/schools/medicine/preventive/graduate-programs/ 0.5
+https://pharmgradprograms.usc.edu/healthecon/phd/requirements/ 0.0
+http://catalogue.usc.edu/content.php?catoid=2&navoid=457 0.5
+
+Query_13
+Query_Term: Keck USC renown discoveries
+Google:
+http://keck.usc.edu/award-winning-genomic-scientist-to-build-new-department-and-institute/ 0
+http://keck.usc.edu/keck-school-of-medicine-establishes-new-academic-department-and-research-institute/ 0
+http://keck.usc.edu/translational-genomics/ 0
+http://keck.usc.edu/keck-faculty-among-the-worlds-most-influential-researchers/ 0.25
+http://www.usc.edu/directories/search.php?q=keck&client=google-csbe&cx=017196764489587948961:0uzwqg1rcr4&hl=en&output=xml_no_dtd&ie=UTF-8&oe=ISO-8859-1&prmd=ivns&ei=aoPYV8mzIIjTjAPm1YCwDQ&start=20&sa=N&filter=0 0
+Bing:
+http://keck.usc.edu/ 0
+http://keck.usc.edu/physiology-and-biophysics/about-physiology-and-biophysics/awards-recognitions/ 0.25
+https://news.usc.edu/tag/keck-medical-center/ 0
+http://support.keckmedicine.org/ 0
+http://dermatology.keckmedicine.org/ 0
