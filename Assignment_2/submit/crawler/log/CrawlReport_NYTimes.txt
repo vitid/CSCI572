@@ -1,0 +1,33 @@
+Name: Vitid Nakareseisoon
+USC ID: 9623587243
+News site crawled: www.nytimes.com
+Fetch Statistics
+================
+# fetches attempted: 20000
+# fetches succeeded: 14904
+# fetches aborted:
+# fetches failed:
+Outgoing URLs:
+==============
+Total URLs extracted: 1879209
+# unique URLs extracted: 195259
+# unique URLs within News Site: 90220
+# unique URLs outside News Site: 105039
+Status Codes:
+=============
+200 OK: 14904
+301 Moved Permanently: 4855
+302 : 105
+303 : 98
+404 Not Found: 32
+503 : 6
+File Sizes:
+===========
+< 1KB: 6
+1KB ~ <10KB: 37
+10KB ~ <100KB: 8384
+100KB ~ <1MB: 6406
+>= 1MB: 33
+Content Types:
+==============
+text/html: 14866
