@@ -6,8 +6,6 @@ import java.util.List;
 
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVPrinter;
-import org.apache.http.Header;
-import org.apache.http.message.BasicHeader;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -23,7 +21,7 @@ import model.SuccessfulDownloadData;
 public class Controller {
 	
 	private static Logger logger = LoggerFactory.getLogger(Controller.class);
-	public static final String CRAWL_SITE = "https://www.nytimes.com/";
+	public static final String CRAWL_SITE = "www.nytimes.com";
 	
 	public static void main(String[] args) throws Exception{
 		String crawlStorageFolder = "/tmp/";
@@ -31,21 +29,14 @@ public class Controller {
 		String successfulDownloadDataFile = "visit_NY_Times.csv";
 		String discoverURLDataFile = "urls_NY_Times.csv";
 		
-		int numberOfCrawlers = 7;
+		int numberOfCrawlers = 4;
 		CrawlConfig config = new CrawlConfig();
 		config.setCrawlStorageFolder(crawlStorageFolder);
 
-		List<Header> headerList = new ArrayList<>();
-		//BasicHeader h0 = new BasicHeader("cookie", "");
-		//BasicHeader h1 = new BasicHeader("path", "/2017/02/06/opinion/im-afraid-it-will-make-terrorism-worse.html");
-		//BasicHeader h2 = new BasicHeader("scheme", "https");
-		//headerList.add(h0);
-		//headerList.add(h1);
-		//headerList.add(h2);
-		config.setDefaultHeaders(headerList);
-		config.setMaxDepthOfCrawling(2);
-		config.setMaxPagesToFetch(10);
-		
+		config.setIncludeHttpsPages(true);
+		config.setFollowRedirects(true);
+		config.setMaxDepthOfCrawling(16);
+		config.setMaxPagesToFetch(20000);
 		/*
 		* Instantiate the controller for this crawl.
 		*/
@@ -58,7 +49,7 @@ public class Controller {
 		* URLs that are fetched and then the crawler starts following links
 		* which are found in these pages
 		*/
-		controller.addSeed(Controller.CRAWL_SITE);
+		controller.addSeed("http://" + Controller.CRAWL_SITE);
 		/*
 		* Start the crawl. This is a blocking operation, meaning that your code
 		* will reach the line after this only when crawling is finished.
