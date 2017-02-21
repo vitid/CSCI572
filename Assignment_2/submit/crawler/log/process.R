@@ -5,6 +5,10 @@ setwd("/home/vitidn/mydata/repo_git/CSCI572/Assignment_2/submit/crawler/log/")
 fetch_data = read.csv("fetch_NY_Times.csv")
 table(fetch_data$httpStatusCode)
 
+#TA's answer:
+# * All 300's could be considered as aborted
+# * 404 could be considered failed
+# * Now 503 is service un available, which is a failure and not aborted. 
 #Not sure how to categorize Fail/Abort?
 #  200   301   302   303   404   503 
 #14904  4855   105    98    32     6

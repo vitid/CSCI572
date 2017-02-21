@@ -5,8 +5,8 @@ Fetch Statistics
 ================
 # fetches attempted: 20000
 # fetches succeeded: 14904
-# fetches aborted:
-# fetches failed:
+# fetches aborted: 5058
+# fetches failed: 38
 Outgoing URLs:
 ==============
 Total URLs extracted: 1879209
@@ -17,10 +17,10 @@ Status Codes:
 =============
 200 OK: 14904
 301 Moved Permanently: 4855
-302 : 105
-303 : 98
+302 Found: 105
+303 See Other: 98
 404 Not Found: 32
-503 : 6
+503 Service Unavailable: 6
 File Sizes:
 ===========
 < 1KB: 6
