@@ -1,5 +1,12 @@
+/Assignment_2/submit/crawler/log/crawler.log
+/Assignment_2/submit/crawler/log/crawler_error.log
+/Assignment_2/submit/crawler/log/fetch_NY_Times.csv
+/Assignment_2/submit/crawler/log/urls_NY_Times.csv
+/Assignment_2/submit/crawler/log/visit_NY_Times.csv
 /Assignment_2/submit/crawler/log/.Rhistory
 /Assignment_2/submit/crawler/.gitignore
+/Assignment_3/DATA/*
+/Assignment_3/submission/invertindex/InvertIndex/.gitignore
 *.class
 
 # Mobile Tools for Java (J2ME)
