@@ -8,6 +8,10 @@
 /Assignment_3/DATA/*
 /Assignment_3/submission/invertindex/InvertIndex/.gitignore
 *.class
+/Assignment_3/submission/*
+/Assignment_4/data/*
+/Assignment_4/submit/ExtractLinkPageRank/resources/edgeList.txt
+/Assignment_4/submit/server/Apache/*
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
